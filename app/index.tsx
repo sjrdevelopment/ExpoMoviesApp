@@ -50,11 +50,12 @@ export default function App() {
       flex: 1,
       alignContent: "center",
       textAlign: "center",
+      flexDirection: "row",
     },
     logo: {
       height: 60,
       width: 60,
-      marginLeft: 16,
+      marginLeft: "auto",
     },
     header: {
       width: 70,
